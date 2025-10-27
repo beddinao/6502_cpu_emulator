@@ -4,7 +4,7 @@
   <img align="center" src="./images/mos_6502.jpg" width="500" />
 </div-->
 An instruction-accurate <a href="https://en.wikipedia.org/wiki/MOS_Technology_6502">6502 CPU</a> emulator written in C, designed for integration into larger systems.<br>
-The 6502 and its derivatives powered systems like the <a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore 64</a>, <a href="https://en.wikipedia.org/wiki/Nintendo_Entertainment_System">Nintendo Entertainment System (NES)</a>, Apple II, BBC Micro.<br>
+The 6502 and its derivatives powered systems like the <a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore 64</a>, <a href="https://en.wikipedia.org/wiki/Nintendo_Entertainment_System">Nintendo Entertainment System (NES)</a>, Apple II...<br>
 
 ## features
 This emulator uses a jump-table design,<br>
